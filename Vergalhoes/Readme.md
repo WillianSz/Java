@@ -1,1 +1,1 @@
-# Exercicios básico de unidade de médidas
+# Exercicio básico de unidade de médidas
