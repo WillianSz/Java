@@ -14,5 +14,5 @@ Saída
 Seu programa deve imprimir, na saída padrão, uma única linha, contendo dois inteiros, sendo que o primeiro representa o número de ovelhas e o segundo representa o número de lobos que ainda estarão vivos na manhã seguinte.
 
 <h3 align="center">
-  <img width="700px" src="https://i.imgur.com/Wsg4Eux.png" alt="">
+  <img width="700px" src="https://i.imgur.com/Q2DStaN.png" alt="">
 </h3>
